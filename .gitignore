@@ -1,0 +1,8 @@
+.idea
+.vscode
+
+cert.crt
+cert.key
+
+SelfSignedCert
+SelfSignedCert.exe
